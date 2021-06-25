@@ -1,0 +1,6 @@
+RogerFlacko,2500
+hausgd,2200
+dasd,2000
+dsa,2000
+RogerFlacko,2000
+RogerFlacko,2000
